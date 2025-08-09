@@ -8,7 +8,7 @@ This project features a line-following and obstacle-avoiding robot based on the 
 
 ## Robot Preview
 
-![Robot Zeus](images/car.jpg)
+![Robot Zeus](car.jpg)
 
 *Figure: "Zeus" — ESP32-S3 based line-following and obstacle-avoiding robot.*
 
