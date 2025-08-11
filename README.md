@@ -100,4 +100,4 @@ Feel free to contribute or modify for your own use!
 - Samith Deshan 
 - [Dineth Meditha](https//github.com/dinethmeditha)
 - godragun 
-- Samod Fernando
+- [Samod Fernando](https://github.com/SAF-Samod)
