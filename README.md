@@ -99,5 +99,5 @@ Feel free to contribute or modify for your own use!
 ## Project Members
 - Samith Deshan 
 - Dineth Meditha
-- Harendra thennkoon
+- godragun 
 - Samod Fernando
