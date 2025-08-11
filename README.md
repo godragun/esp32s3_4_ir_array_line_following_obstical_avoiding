@@ -98,6 +98,6 @@ Feel free to contribute or modify for your own use!
 
 ## Project Members
 - [Samith Deshan](https://github.com/SamithaDeshan)
-- [Dineth Meditha](https//github.com/dinethmeditha)
+- [Dineth Meditha](https://github.com/dinethmeditha)
 - godragun 
 - [Samod Fernando](https://github.com/SAF-Samod)
