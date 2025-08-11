@@ -95,3 +95,9 @@ This project is open-source under the MIT License.
 ---
 
 Feel free to contribute or modify for your own use!
+
+## Project Members
+- Samith Deshan 
+- Dineth Meditha
+- Harendra thennkoon
+- Samod Fernando
